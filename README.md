@@ -10,4 +10,7 @@
 
 ## Link Project on Google Play
 
-![google-play](https://user-images.githubusercontent.com/95625845/198870801-4792d1c4-0167-4578-9c2e-60ad77fd944e.png)  https://play.google.com/store/apps/details?id=com.nour.azkar
+ ![google-play (1)](https://user-images.githubusercontent.com/95625845/198870983-8258cd85-1077-4f28-ae89-650a06554103.png)
+  https://play.google.com/store/apps/details?id=com.nour.azkar
+
+
